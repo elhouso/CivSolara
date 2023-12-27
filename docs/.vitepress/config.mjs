@@ -12,22 +12,71 @@ export default defineConfig({
   themeConfig: {
     siteTitle: "Imperial Federation",
     logo: "/ImperialFederation-Flag.png",
-    // https://vitepress.dev/reference/default-theme-config
+    externalLinkIcon: true,
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { 
+        text: 'Constitution', 
+        link: '/constitution/index',
+        activeMatch: '/constitution/'
+      },
+      { 
+        text: 'Laws', 
+        link: '/laws/index',
+        activeMatch: '/laws/' 
+      },
+      { 
+        text: 'Government', 
+        link: '/government/index',
+        activeMatch: '/government/'
+      },
+      { 
+        text: 'States', 
+        link: '/states/index',
+        activeMatch: '/states/' 
+      },
     ],
-
-    sidebar: [
-      {
-        text: 'Examples',
-        items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
-        ]
-      }
-    ],
-
+    editLink: {
+      pattern:
+        "https://github.com/CivIF/civif.github.io/edit/main/docs/:path",
+      text: "Edit this page on GitHub",
+    },
+    sidebar: {
+      "/constitution/": [
+        {
+          text: "Constitution"
+        }
+      ],
+      "/laws/": [
+        {
+          text: "Laws"
+        }
+      ],
+      "/government/": [
+        {
+          text: "Government"
+        }
+      ],
+      "/states/": [
+        {
+          text: "States",
+          items: [
+            {
+              text: "Introduction",
+              link: "/states/"
+            },
+            {
+              text: "Join the IF as a State",
+              link: "/states/join-state"
+            },
+            {
+              text: "List of current states",
+              link: "/states/current-states"
+            }
+          ]
+        }
+      ]
+    },
     socialLinks: [
       { icon: 'github', link: 'https://github.com/CivIF/civif.github.io' }
     ]
