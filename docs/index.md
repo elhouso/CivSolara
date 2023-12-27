@@ -15,13 +15,13 @@ hero:
       link: /markdown-examples
     - theme: alt
       text: Constitution
-      link: /api-examples
+      link: /constitution/index
     - theme: alt
       text: Government
-      link: /api-examples
+      link: /government/index
     - theme: alt
       text: States
-      link: /api-examples
+      link: /states/index
 
 features:
   - title: Largest and diverse nation
