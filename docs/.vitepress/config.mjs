@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 const urlName = "https://civif.github.io/";
-const ifImage = "https://civif.github.io/if-flag.png";
+const ifImage = "https://civif.github.io/ImperialFederation-Flag.png";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -11,7 +11,7 @@ export default defineConfig({
   appearance: "dark",
   themeConfig: {
     siteTitle: "Imperial Federation",
-    logo: "/yoahtl-flag.png",
+    logo: "/ImperialFederation-Flag.png",
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
@@ -29,7 +29,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/CivIF/civif.github.io' }
     ]
   }
 })
