@@ -31,5 +31,17 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', link: 'https://github.com/CivIF/civif.github.io' }
     ]
+  },
+  sitemap: {
+    hostname: urlName,
+    lastmodDateOnly: false,
+    xmlns: { // trim the xml namespace
+      news: false,
+      video: false,
+      // custom: [
+      //   'xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"',
+      //   'xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"',
+      // ],
+    }
   }
 })
