@@ -1,5 +1,7 @@
 # Constitution of the Imperial Federation
 
+![Banner](https://civif.github.io/IF-Banner.png "Banner")
+
 ---
 
 ## PREFACE
