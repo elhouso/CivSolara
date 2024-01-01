@@ -4,7 +4,7 @@
 
 ## PREFACE
 
-> The Imperial Federation shall strive to bring peace and prosperity to the world while still allowing citizens to retain autonomy in their States. Protection from external threats, along with organizing large scale efforts of defense, infrastructure, and factories to give us common goals to work towards.*
+> The Imperial Federation shall strive to bring peace and prosperity to the world while still allowing citizens to retain autonomy in their States. Protection from external threats, along with organizing large scale efforts of defense, infrastructure, and factories to give us common goals to work towards.
 
 ---
 
