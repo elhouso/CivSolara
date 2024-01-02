@@ -16,7 +16,7 @@ All the content for the site is in the `docs` folder and are `Markdown` files. (
 
 ### via GitHub Website
 You can edit a page using GitHub's website (Click pencil icon on top-right of the file/code content when you're in civif.github.io repo).
-![PencilIcon](https://civif.github.io/Instruction-Edit-Github-Website.png "Pencil Icon")
+![PencilIcon](https://civif.github.io/Instruction-Edit-GitHub-Website.png "Pencil Icon")
 
 When it is done, you can click "Commit Change.." green button on top-right. If prompted that you have to make a pull request (Propose Change green button), you can go ahead and create a new pull request to propose your change. [Members of this organization](https://github.com/orgs/CivIF/people) has to approve your proposed change (Only one member required to approve).
 
