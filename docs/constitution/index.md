@@ -48,11 +48,11 @@
 8. The Chancellor reserves the right to perform military actions outside of war, including pearl-on-sight orders, which can be overturned by the Senate.
 9. Following the vote of at least 50% of senators, and the approval of the chief justice, the King may, for a determined set of time, accomplish the tasks and the role of the chancellor with full legitimacy.
 10. The Chancellor of the Imperial Federation can appoint Vice-Chancellor of the Imperial Federation with at least 50% of support from the Senate.
-Vice-Chancellor serves for the duration of the Chancellor's term.
-    1. The Vice-Chancellor of the Imperial Federation has a right to propose laws to the senate, but has no voting rights on any legislation proposed in the senate.
-    2. The Vice-Chancellor of the Imperial Federation has the right to access the Treasury of the Imperial Federation with the approval of the King of the Imperial Federation or the Senate.
-    3. The Vice-Chancellor of the Imperial Federation has the right to assume the constitutional duties and rights granted to the Chancellor of the Imperial Federation, when the King of the Imperial Federation and at least 50% of the Senate deems it necessary. This right cannot be granted for more than remaining duration of the Chancellor and can be revoked with 50% vote of the Senate and support from the King of the Imperial Federation.
-    4. The Vice-Chancellor of the Imperial Federation can be removed with at least 50% vote of the Senate.
+    1. Vice-Chancellor serves for the duration of the Chancellor's term.
+    2. The Vice-Chancellor of the Imperial Federation has a right to propose laws to the senate, but has no voting rights on any legislation proposed in the senate.
+    3. The Vice-Chancellor of the Imperial Federation has the right to access the Treasury of the Imperial Federation with the approval of the King of the Imperial Federation or the Senate.
+    4. The Vice-Chancellor of the Imperial Federation has the right to assume the constitutional duties and rights granted to the Chancellor of the Imperial Federation, when the King of the Imperial Federation and at least 50% of the Senate deems it necessary. This right cannot be granted for more than remaining duration of the Chancellor and can be revoked with 50% vote of the Senate and support from the King of the Imperial Federation.
+    5. The Vice-Chancellor of the Imperial Federation can be removed with at least 50% vote of the Senate.
 
 ---
 
