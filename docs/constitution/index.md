@@ -158,7 +158,7 @@
 
 1. The Federal Judiciary of the Imperial Federation shall consist of 3 judges: 1 of which shall be elected by citizens of the Imperial Federation, the second judge to be appointed by the Senate of the Imperial Federation, and the Head Judge being appointed by the Senate of the Imperial Federation.
     1. The Judiciary of the Imperial Federation shall meet in the Capital District.
-2. The Federal Judiciary shall only have jurisdiction over.
+2. The Federal Judiciary shall only have jurisdiction over
     1. Crimes committed in multiple States by the same person.
     2. Crimes of espionage or treason are committed against the Federal Government.
     3. Crimes committed in Federal districts or Imperia.
