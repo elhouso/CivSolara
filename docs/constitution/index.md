@@ -18,15 +18,16 @@
 4. The King is the Commander-in-Chief of the military.
     1. The King reserves the right to appoint and remove people from the military.
     2. The King may perform military actions outside of war, including pearl-on-sight orders, which can be overturned by the Senate.
-5. The King of the Imperial Federation will oversee federal elections in the Imperial Federation with the oversight of a random body of citizens not standing for election known as the ‘Electoral Commission’.
+5. The King serves as the primary representative of the Imperial Federation and its interests on the international stage.
+6. The King of the Imperial Federation will oversee federal elections in the Imperial Federation with the oversight of a random body of citizens not standing for election known as the ‘Electoral Commission’.
     3. Prior to announcing the outcome of a Federal Election where a sitting Chancellor has lost, The King of the Imperial Federation reserves the right to remove the former Chancellor’s permissions on discord and federal groups for the stability of the Federation before he publicly declares the result.
-6. The King of the Imperial Federation reserves the right to suspend the Government of the Imperial Federation with the support of at least 2 of the following three bodies:
+7. The King of the Imperial Federation reserves the right to suspend the Government of the Imperial Federation with the support of at least 2 of the following three bodies:
     4. The Senate, by the expression of the will of more than 50% of the Senators
     5. The government, by expression of the will of the Chancellor
     6. The Judiciary, by expression of the consent of 2 out of 3 judges.
-7. The King’s primary residence shall be located in the Capital District.
-8. Any changes to the constitution of the Imperial Federation must be approved by The King of the Imperial Federation.
-9. The King of the Imperial Federation may give up the crown to any person they see fit.
+8. The King’s primary residence shall be located in the Capital District.
+9. Any changes to the constitution of the Imperial Federation must be approved by The King of the Imperial Federation.
+10. The King of the Imperial Federation may give up the crown to any person they see fit.
 
 ---
 
@@ -37,7 +38,7 @@
     1. Within this role, the Chancellor will determine the foreign and domestic policies of the Imperial Federation.
     2. The Chancellor will oversee federal planning decisions, the allocation of federal resources and the admission of new states into the federation which can be overturned by the Senate.
         1. New states must have clearly defined borders and a population of 2 or more to be eligible for Statehood.
-    3. The Chancellor will be the primary diplomat of the IF, and will lead the IF on the world stage.
+    3. The Chancellor will serve as the secondary point of contact for the IF on the world stage alongside the King.
     4. The Chancellor will be in charge of mediating disputes between the states.
 3. The Chancellor will not infringe on the rights of the states.
 4. The Chancellor may be removed if over two-thirds of all eligible voters petition for his removal.
@@ -46,6 +47,12 @@
 7. The Chancellor’s office shall be located in the Capital District.
 8. The Chancellor reserves the right to perform military actions outside of war, including pearl-on-sight orders, which can be overturned by the Senate.
 9. Following the vote of at least 50% of senators, and the approval of the chief justice, the King may, for a determined set of time, accomplish the tasks and the role of the chancellor with full legitimacy.
+10. The Chancellor of the Imperial Federation can appoint Vice-Chancellor of the Imperial Federation with at least 50% of support from the Senate.
+Vice-Chancellor serves for the duration of the Chancellor's term.
+    1. The Vice-Chancellor of the Imperial Federation has a right to propose laws to the senate, but has no voting rights on any legislation proposed in the senate.
+    2. The Vice-Chancellor of the Imperial Federation has the right to access the Treasury of the Imperial Federation with the approval of the King of the Imperial Federation or the Senate.
+    3. The Vice-Chancellor of the Imperial Federation has the right to assume the constitutional duties and rights granted to the Chancellor of the Imperial Federation, when the King of the Imperial Federation and at least 50% of the Senate deems it necessary. This right cannot be granted for more than remaining duration of the Chancellor and can be revoked with 50% vote of the Senate and support from the King of the Imperial Federation.
+    4. The Vice-Chancellor of the Imperial Federation can be removed with at least 50% vote of the Senate.
 
 ---
 
@@ -82,7 +89,7 @@
     17. The Chancellor may hire bounty hunters only with the permission of the Senate.
     18. States and citizens may hire bounty hunters only with the permission of the Senate.
 11. Each state with at least three active citizens has the right to send a Senator to the Imperial Senate.
-    19. For each additional 3  active primary citizens plus 1 for every current Senator, the State has the ability to send another Senator to the Imperial Senate.
+    19. For each additional 3 active primary citizens plus 1 for every current Senator, the State has the ability to send another Senator to the Imperial Senate.
         3. IF citizens may be citizens of multiple states, but for the purposes of determining Senators, the citizen must declare a primary residence, or they will not conduct for these purposes
         4. An IF citizen may be citizen of as many foreign nations as they desire, to no penalty, so long as they continue to remain active. In addition, the Imperial Federation takes offense to their citizens being penalized in any way in foreign lands for being citizens of the IF.
     20. States can choose whichever method they wish to determine who they send to the Imperial Senate.
@@ -149,7 +156,7 @@
 
 ## Section 6: Judiciary of the Imperial Federation
 
-1. The Federal Judiciary of the Imperial Federation shall consist of 3 judges: 2 of which shall be elected by citizens of the Imperial Federation, with the third Head Judge being appointed by the Senate of the Imperial Federation.
+1. The Federal Judiciary of the Imperial Federation shall consist of 3 judges: 1 of which shall be elected by citizens of the Imperial Federation, the second judge to be appointed by the Senate of the Imperial Federation, and the Head Judge being appointed by the Senate of the Imperial Federation.
     1. The Judiciary of the Imperial Federation shall meet in the Capital District.
 2. The Federal Judiciary shall only have jurisdiction over.
     2. Crimes committed in multiple States by the same person.
@@ -158,11 +165,14 @@
 3. All other crimes are tried in the States they occur according to State laws or customs.
     5. States reserve the sole right to try crimes not under federal jurisdiction.
     6. States may defer this right and ask the Federal Judiciary to try crimes not under federal jurisdiction that occur within their borders.
-4. Defendants may appeal their case to the Federal Senate if they believe they have had an unjust trial.The Senate reserves the right to deny an appeal for any reason.
+4. Defendants may appeal their case to the Federal Senate if they believe they have had an unjust trial. The Senate reserves the right to deny an appeal for any reason.
     7. Federal cases with sentences of more than a week of pearl time or of a fine of more than 32 diamonds are automatically appealed to the Senate, and this appeal cannot be rejected.
 5. Judges may be removed by a senate resolution with 2/3rds affirmative votes within 24 hours.
     8. If the Head Judge is removed via senate resolution, the senate must reappoint a new Head Judge immediately.
     9. If any other judge is removed by senate resolution, the senate may appoint an interim judge to serve until the next judicial election. A new judge must be elected during the next federal election.
+6. The second judge, appointed by the senate cannot preside over the cases involving members of the senate.
+7. The Head Judge, the King of the Imperial Federation, cannot preside over the cases involving the King of the Imperial Federation as a party in the case.
+8. Judiciary is the sole interpreter of the constitution, when a constitutional matter arises or when the constitution isn't clear.
 
 ---
 
@@ -185,8 +195,8 @@ These 7 basic rights apply equally throughout the Imperial Federation, and canno
 
 ## Section 8: Miscellaneous
 
-1. The capital city of the Imperial Federation is Imperia.
-    1. The capital chief as selected by the senate will serve as mayor of Imperia.
+1. The capital city of the Imperial Federation is New Callisto.
+    1. The capital chief as selected by the senate will serve as mayor of New Callisto.
     2. The capital chief is charged with planning and developing Imperia in coordination with other federal officials
 2. The Imperial Federation can exist across the Multiverse (multiple servers of Minecraft).
 3. Any amendments to the constitution require the support of ⅔ of all Members of the Imperial Senate, in addition to the support of the sitting Chancellor and the King.
