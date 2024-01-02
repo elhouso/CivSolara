@@ -90,7 +90,7 @@ export default defineConfig({
             }
           ]
         }
-      ]
+      ],
     },
     socialLinks: [
       {
@@ -101,14 +101,14 @@ export default defineConfig({
         icon: 'github',
         link: 'https://github.com/CivIF/civif.github.io'
       }
-    ]
-  },
-  search: {
-    provider: "local",
-  },
-  footer: {
-    message: 'Released under the MIT License.',
-    copyright: 'Copyright © 2022-present The Government of the Imperial Federation'
+    ],
+    search: {
+      provider: "local",
+    },
+    footer: {
+      message: 'Released under the MIT License.',
+      copyright: 'Copyright © 2022-present The Government of the Imperial Federation'
+    },
   },
   sitemap: {
     hostname: urlName,
