@@ -6,6 +6,8 @@ Our current capital city and capital territory is **New Callisto**.
 
 ## Continental States and Territories (Deluvia)
 
+- Angriver (Joined 23 October 2022)
+- Elyras (Joined 1 January 2024)
 - Godhaven (Joined 31 August 2022, founding)
 - Halland (Joined 27 June 2023)
 - Imperia (Joined 13 December 2023)
