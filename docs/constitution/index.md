@@ -1,5 +1,9 @@
 # Constitution of the Imperial Federation
 
+::: info
+This is the page containing a full version of the IF Constitution. If a pull request that contain change to this that is not relative to an passed amendment by the Senate of the Imperial Federation, that pull request will be rejected.
+:::
+
 ![Banner](https://civif.github.io/IF-Banner.png "Banner")
 
 ---

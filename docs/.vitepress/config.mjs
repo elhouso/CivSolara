@@ -7,6 +7,17 @@ const ifImage = "https://civif.github.io/ImperialFederation-Flag.png";
 export default defineConfig({
   title: "Imperial Federation",
   description: "Federation of many different governments",
+  head: [
+    [
+      "link",
+      {
+        rel: "icon",
+        href: "/favicon.ico",
+        type: "image/png",
+        size: "32x32"
+      }
+    ]
+  ],
   lastUpdated: true,
   appearance: "dark",
   themeConfig: {
@@ -78,8 +89,22 @@ export default defineConfig({
       ]
     },
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/CivIF/civif.github.io' }
+      {
+        icon: "discord",
+        link: "https://discord.gg/Zakw3KYGrH",
+      },
+      {
+        icon: 'github',
+        link: 'https://github.com/CivIF/civif.github.io'
+      }
     ]
+  },
+  search: {
+    provider: "local",
+  },
+  footer: {
+    message: 'Released under the MIT License.',
+    copyright: 'Copyright © 2022-present The Government of the Imperial Federation'
   },
   sitemap: {
     hostname: urlName,
