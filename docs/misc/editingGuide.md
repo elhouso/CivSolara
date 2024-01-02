@@ -20,10 +20,14 @@ You can edit a page using GitHub's website (Click pencil icon on top-right of th
 
 ### via GitHub Desktop + Text Editor
 
-You can fork this repo and then clone your repo you just forked via GitHub Desktop. Once cloned, you can open any files via text editor like Visual Studio Code, Notepad, Notepad++, etc. Then you can start editing!
+You can fork this repo and then clone your repo you just forked via GitHub Desktop. Once cloned, you can open any files via text editor like Visual Studio Code, Notepad, Notepad++, etc. Then you can start editing! Note that you have to make a new pull request to merge your forked repo into this repo's main branch.
+
+### via File Upload to GitHub Website + Text Editor
+
+You can download file(s) from this repo and start editing with your text editor. When you're done editing, you can upload file to this repo with same name of file name you downloaded. Alternately you can also use this to make a new page but you need to edit `config.js` file. See [Creating a page](https://civif.github.io/misc/editingGuide.html#creating-a-page) section for more information.
 
 ### Committing Change / Proposing Change
-When you are done editing, you can click "Commit Change.." green button on top-right. If prompted that you have to make a pull request (Propose Change green button), you can go ahead and create a new pull request to propose your change. [Members of the CivIF organization](https://github.com/orgs/CivIF/people) has to review and approve your proposed change (Only one member required to approve).
+When you are done editing and/or uploading files, you can click "Commit Change.." green button on top-right. If prompted that you have to make a pull request (Propose Change green button), you can go ahead and create a new pull request to propose your change. [Members of the CivIF organization](https://github.com/orgs/CivIF/people) has to review and approve your proposed change (Only one member required to approve).
 
 ## Creating a page
 
