@@ -20,11 +20,11 @@
     2. The King may perform military actions outside of war, including pearl-on-sight orders, which can be overturned by the Senate.
 5. The King serves as the primary representative of the Imperial Federation and its interests on the international stage.
 6. The King of the Imperial Federation will oversee federal elections in the Imperial Federation with the oversight of a random body of citizens not standing for election known as the ‘Electoral Commission’.
-    3. Prior to announcing the outcome of a Federal Election where a sitting Chancellor has lost, The King of the Imperial Federation reserves the right to remove the former Chancellor’s permissions on discord and federal groups for the stability of the Federation before he publicly declares the result.
+    1. Prior to announcing the outcome of a Federal Election where a sitting Chancellor has lost, The King of the Imperial Federation reserves the right to remove the former Chancellor’s permissions on discord and federal groups for the stability of the Federation before he publicly declares the result.
 7. The King of the Imperial Federation reserves the right to suspend the Government of the Imperial Federation with the support of at least 2 of the following three bodies:
-    4. The Senate, by the expression of the will of more than 50% of the Senators
-    5. The government, by expression of the will of the Chancellor
-    6. The Judiciary, by expression of the consent of 2 out of 3 judges.
+    1. The Senate, by the expression of the will of more than 50% of the Senators
+    2. The government, by expression of the will of the Chancellor
+    3. The Judiciary, by expression of the consent of 2 out of 3 judges.
 8. The King’s primary residence shall be located in the Capital District.
 9. Any changes to the constitution of the Imperial Federation must be approved by The King of the Imperial Federation.
 10. The King of the Imperial Federation may give up the crown to any person they see fit.
@@ -68,32 +68,32 @@
     7. Citizenship
     8. Federal constitutional disputes
 2. The Senate will approve decisions of laws by a majority vote of all Senators unless otherwise stated in this document.
-    9. The voting period will last 24 hours or until it is certain the vote will pass or fail
-    10. If a vote has not been passed or failed by the 24-hour mark, the vote will automatically be failed
-    11. Senators may abstain from voting
+    1. The voting period will last 24 hours or until it is certain the vote will pass or fail
+    2. If a vote has not been passed or failed by the 24-hour mark, the vote will automatically be failed
+    3. Senators may abstain from voting
         1. Abstentions disqualify the Senator from the vote, lowering the total amount of votes needed to pass or fail.
 3. The Imperial Senate can overturn any decision made by the Chancellor of the Imperial Federation by a majority vote of all Senators, and it has supremacy over the Chancellor to enact decisions if a majority vote of all Senators support it.
 4. Senators must:
-    12. Act in the best interest of the Imperial Federation
-    13. Delegate important duties to Senators and faithfully execute these duties
-        2. If a Senator fails to complete their duties in good faith, the Federal Judiciary will decide punishment
-    14. Apply all Federal laws equally in all states
+    1. Act in the best interest of the Imperial Federation
+    2. Delegate important duties to Senators and faithfully execute these duties
+        1. If a Senator fails to complete their duties in good faith, the Federal Judiciary will decide punishment
+    3. Apply all Federal laws equally in all states
 5. Senators may approve the creation or addition of new States by a majority vote.
-    15. New states must have clearly defined borders and a population of 2 or more to be eligible for Statehood.
+    1. New states must have clearly defined borders and a population of 2 or more to be eligible for Statehood.
 6. The Senate shall set rules of its own conduct, and has the power to delegate its authority to individuals or other bodies of individuals.
-    16. This includes, but is not limited to, the Senate’s mandate to conduct diplomacy with foreigners, and the commanding of all military forces of the Imperial Federation.
+    1. This includes, but is not limited to, the Senate’s mandate to conduct diplomacy with foreigners, and the commanding of all military forces of the Imperial Federation.
 7. The Senate of the IF reserves the right to intervene on border disputes between states, and has administrative power over federal lands.
 8. The Senate further reserves the right to serve dereliction notices to inactive states.
 9. The Senate shall meet in the Capital District.
 10. All foreign bounty hunters MUST seek permission of the Senate before pearling individuals in the IF.
-    17. The Chancellor may hire bounty hunters only with the permission of the Senate.
-    18. States and citizens may hire bounty hunters only with the permission of the Senate.
+    1. The Chancellor may hire bounty hunters only with the permission of the Senate.
+    2. States and citizens may hire bounty hunters only with the permission of the Senate.
 11. Each state with at least three active citizens has the right to send a Senator to the Imperial Senate.
-    19. For each additional 3 active primary citizens plus 1 for every current Senator, the State has the ability to send another Senator to the Imperial Senate.
-        3. IF citizens may be citizens of multiple states, but for the purposes of determining Senators, the citizen must declare a primary residence, or they will not conduct for these purposes
-        4. An IF citizen may be citizen of as many foreign nations as they desire, to no penalty, so long as they continue to remain active. In addition, the Imperial Federation takes offense to their citizens being penalized in any way in foreign lands for being citizens of the IF.
-    20. States can choose whichever method they wish to determine who they send to the Imperial Senate.
-    21. States are required to re-select their senators within 72 hours of the end of federal elections. States should report their means of senate selection to the Federal Government for use in advertising the IF.
+    1. For each additional 3 active primary citizens plus 1 for every current Senator, the State has the ability to send another Senator to the Imperial Senate.
+        1. IF citizens may be citizens of multiple states, but for the purposes of determining Senators, the citizen must declare a primary residence, or they will not conduct for these purposes
+        2. An IF citizen may be citizen of as many foreign nations as they desire, to no penalty, so long as they continue to remain active. In addition, the Imperial Federation takes offense to their citizens being penalized in any way in foreign lands for being citizens of the IF.
+    2. States can choose whichever method they wish to determine who they send to the Imperial Senate.
+    3. States are required to re-select their senators within 72 hours of the end of federal elections. States should report their means of senate selection to the Federal Government for use in advertising the IF.
 12. The Senate has the power to create National Parks.
 13. The Senate may declare war by a two-thirds majority of votes.
 14. Senators will be encouraged to share access to private snitch networks with the Chancellor, King, Senate, Veterans of the Military and Chief Security Officer through incentives including access to federal resources.
@@ -108,25 +108,25 @@
     3. Manage their own territory.
     4. All rights not explicitly given to the Federal government in this document are left to the states.
 2. States may not:
-    5. Change their borders within the Imperial Federation without authorization from the Chancellor and/or the Senate.
-    6. Make war with outside nations or within the Imperial Federation.
-    7. Form military ties with outside nations.
-    8. Create laws that violate the constitution.
-    9. Secede from the IF without the permission of ⅔ of all Senators.
-    10. Bar passage of IF citizens throughout their public territory with the exception of criminals.
+    1. Change their borders within the Imperial Federation without authorization from the Chancellor and/or the Senate.
+    2. Make war with outside nations or within the Imperial Federation.
+    3. Form military ties with outside nations.
+    4. Create laws that violate the constitution.
+    5. Secede from the IF without the permission of ⅔ of all Senators.
+    6. Bar passage of IF citizens throughout their public territory with the exception of criminals.
         1. Private citizens may still bar individuals from their property.
-    11. Harbor criminals of other states.
+    7. Harbor criminals of other states.
 3. States can be removed from the Imperial Federation if a two-thirds majority of senators support this.
 4. If an independent group would like to become a state of the IF, they may submit a request to the Chancellor and the Senate of the Imperial Federation, and, if either body approves it without being overruled by Members of the Imperial Senate, they become a state with all rights, privileges, and responsibilities of any other state
 5. Individuals and groups are allowed to establish Free Cities within Federal Districts, whose borders shall be defined by buildings and structures created as part of the Free City only.
-    12. These areas may be administered by their own respective Government and shall receive the same rights as other Imperial Federation citizens to be free from griefing, stealing and unjustified slaying.
+    1. These areas may be administered by their own respective Government and shall receive the same rights as other Imperial Federation citizens to be free from griefing, stealing and unjustified slaying.
 6. States are required to have reasonably active in-game leadership who is/are able to assist new players, oversee the selection of senators, and coordinate development with citizens and the federal government.
 7. A minimum of 2 active primary citizens of a state may petition the Federal Government for a change of leadership order when state leadership:
-    13. has not been reasonably active or, has committed and been convicted of high crimes as defined by the federal legal code or has otherwise derelicted constitutionally or legally defined duties.
-    14. After reviewing the petition and submitted evidence the Federal Judge shall issue a change of leadership order at their discretion. Such an order will dismiss state leadership and senators and place the state under control of an interim council consisting of the King, the Chancellor, and petitioning citizens.
-        2. The Interim council must appoint an interim senator and draft a basic law detailing government type and senate selection method. Permanent leadership should be selected within 7 days after the change of leadership order.
-        3. The Interim council should ensure access to state namelayer groups within 7 days of the change of leadership order.
-        4. Such an order will require that permanent leadership and senators be selected within 7 days of the order.
+    1. has not been reasonably active or, has committed and been convicted of high crimes as defined by the federal legal code or has otherwise derelicted constitutionally or legally defined duties.
+    2. After reviewing the petition and submitted evidence the Federal Judge shall issue a change of leadership order at their discretion. Such an order will dismiss state leadership and senators and place the state under control of an interim council consisting of the King, the Chancellor, and petitioning citizens.
+        1. The Interim council must appoint an interim senator and draft a basic law detailing government type and senate selection method. Permanent leadership should be selected within 7 days after the change of leadership order.
+        2. The Interim council should ensure access to state namelayer groups within 7 days of the change of leadership order.
+        3. Such an order will require that permanent leadership and senators be selected within 7 days of the order.
 
 ---
 
@@ -143,14 +143,14 @@
 6. The voting period shall be 48 hours long, and begin with an @citizen ping.
 7. Citizens will vote using the Single Transferable Vote proportional electoral system on Google Forms.
 8. Voters petition
-    4. Should a petition to repeal an act of the Chancellor get ⅔ of the voters signatures within a week of the bill being signed, the act must be repealed.
-    5. Should ⅔ of the voters sign a bill for a voters petition, it becomes official IF law and must be implemented by the Chancellor and Imperial Senate so long as it does not conflict with this document.
-    6. Should ⅔ of voters petition for the removal of the sitting Chancellor then the sitting Chancellor will be removed and  a new election will begin immediately.
+    1. Should a petition to repeal an act of the Chancellor get ⅔ of the voters signatures within a week of the bill being signed, the act must be repealed.
+    2. Should ⅔ of the voters sign a bill for a voters petition, it becomes official IF law and must be implemented by the Chancellor and Imperial Senate so long as it does not conflict with this document.
+    3. Should ⅔ of voters petition for the removal of the sitting Chancellor then the sitting Chancellor will be removed and  a new election will begin immediately.
 9. In order to stand for election for the position of Chancellor of the Imperial Federation. Candidates shall have
-    7. A house within a state, federal district, or free city of the Imperial Federation as their primary residence for at least 2 weeks prior to standing for election.
-    8. Shall consider the Imperial Federation to be their primary country of citizenship.
-    9. Chancellor candidates shall not have a government position in a state outside of the Imperial Federation.
-    10. The Sovereign and Electoral Commission shall be charged with determining candidates primary citizenship and primary residence in the case of dispute.
+    4. A house within a state, federal district, or free city of the Imperial Federation as their primary residence for at least 2 weeks prior to standing for election.
+    5. Shall consider the Imperial Federation to be their primary country of citizenship.
+    6. Chancellor candidates shall not have a government position in a state outside of the Imperial Federation.
+    7. The Sovereign and Electoral Commission shall be charged with determining candidates primary citizenship and primary residence in the case of dispute.
 
 ---
 
@@ -159,17 +159,17 @@
 1. The Federal Judiciary of the Imperial Federation shall consist of 3 judges: 1 of which shall be elected by citizens of the Imperial Federation, the second judge to be appointed by the Senate of the Imperial Federation, and the Head Judge being appointed by the Senate of the Imperial Federation.
     1. The Judiciary of the Imperial Federation shall meet in the Capital District.
 2. The Federal Judiciary shall only have jurisdiction over.
-    2. Crimes committed in multiple States by the same person.
-    3. Crimes of espionage or treason are committed against the Federal Government.
-    4. Crimes committed in Federal districts or Imperia.
+    1. Crimes committed in multiple States by the same person.
+    2. Crimes of espionage or treason are committed against the Federal Government.
+    3. Crimes committed in Federal districts or Imperia.
 3. All other crimes are tried in the States they occur according to State laws or customs.
-    5. States reserve the sole right to try crimes not under federal jurisdiction.
-    6. States may defer this right and ask the Federal Judiciary to try crimes not under federal jurisdiction that occur within their borders.
+    1. States reserve the sole right to try crimes not under federal jurisdiction.
+    2. States may defer this right and ask the Federal Judiciary to try crimes not under federal jurisdiction that occur within their borders.
 4. Defendants may appeal their case to the Federal Senate if they believe they have had an unjust trial. The Senate reserves the right to deny an appeal for any reason.
-    7. Federal cases with sentences of more than a week of pearl time or of a fine of more than 32 diamonds are automatically appealed to the Senate, and this appeal cannot be rejected.
+    1. Federal cases with sentences of more than a week of pearl time or of a fine of more than 32 diamonds are automatically appealed to the Senate, and this appeal cannot be rejected.
 5. Judges may be removed by a senate resolution with 2/3rds affirmative votes within 24 hours.
-    8. If the Head Judge is removed via senate resolution, the senate must reappoint a new Head Judge immediately.
-    9. If any other judge is removed by senate resolution, the senate may appoint an interim judge to serve until the next judicial election. A new judge must be elected during the next federal election.
+    1. If the Head Judge is removed via senate resolution, the senate must reappoint a new Head Judge immediately.
+    2. If any other judge is removed by senate resolution, the senate may appoint an interim judge to serve until the next judicial election. A new judge must be elected during the next federal election.
 6. The second judge, appointed by the senate cannot preside over the cases involving members of the senate.
 7. The Head Judge, the King of the Imperial Federation, cannot preside over the cases involving the King of the Imperial Federation as a party in the case.
 8. Judiciary is the sole interpreter of the constitution, when a constitutional matter arises or when the constitution isn't clear.
