@@ -12,7 +12,7 @@ hero:
   actions:
     - theme: brand
       text: Learn More
-      link: /markdown-examples
+      link: /learnMore.md
     - theme: alt
       text: Constitution
       link: /constitution/index

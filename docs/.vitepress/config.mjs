@@ -14,7 +14,7 @@ export default defineConfig({
         rel: "icon",
         href: "/favicon.ico",
         type: "image/png",
-        size: "32x32"
+        size: "16x16"
       }
     ]
   ],
@@ -45,6 +45,10 @@ export default defineConfig({
         text: 'States', 
         link: '/states/index',
         activeMatch: '/states/' 
+      },
+      { 
+        text: 'Edit Guide', 
+        link: '/misc/editingGuide' 
       },
     ],
     editLink: {
