@@ -36,4 +36,12 @@ The Chiefs conpromised of:
 - Chief of Military
 - Chief of Infrastructure
 
-They are responsible on completing their tasks to keep nation maintained.
+Each of them are responsible on completing their tasks to keep nation maintained and civil. Chancellor is the only elected political position outside of the judicial branch, which is it can be elected by popular vote in the Federal Election.
+
+## Judicial
+
+The Judicial of the Imperial Federation is to check and balance the power and ensure all laws are constitutional and fair. The judges are responsible as an mediation for disputes between citizens and states, as well as interpretation of the constitution and law. All crimes occurred in the Imperial Federation territories are under federal jurisdiction. It is conpromised of three judges;
+
+- First Judge that is elected by popular vote in the Federal Election
+- Second Judge that is appointed by the Senate of the Imperial Federation
+- Third Judge is the Head Judge which is currently occupied by the King of the Imperial Federation.
