@@ -45,3 +45,5 @@ Our current capital city and capital territory is **New Callisto**.
 ## National Parks
 
 - Glendalough
+
+For more information of every states that are admitted to the Imperial Federation since founding, [see List of I.F. States by date of admission to the Federation](https://civwiki.org/wiki/List_of_I.F._states_by_date_of_admission_to_the_Federation).
