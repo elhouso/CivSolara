@@ -32,6 +32,7 @@ This is the page containing a full version of the IF Constitution. If your pull 
 8. The King’s primary residence shall be located in the Capital District.
 9. Any changes to the constitution of the Imperial Federation must be approved by The King of the Imperial Federation.
 10. The King of the Imperial Federation may give up the crown to any person they see fit.
+11. The King of the Imperial Federation reserves the right to overturn the Chancellor's veto on a bill within 24 hours after the Chancellor's veto decision.
 
 ---
 
@@ -57,6 +58,7 @@ This is the page containing a full version of the IF Constitution. If your pull 
     3. The Vice-Chancellor of the Imperial Federation has the right to access the Treasury of the Imperial Federation with the approval of the King of the Imperial Federation or the Senate.
     4. The Vice-Chancellor of the Imperial Federation has the right to assume the constitutional duties and rights granted to the Chancellor of the Imperial Federation, when the King of the Imperial Federation and at least 50% of the Senate deems it necessary. This right cannot be granted for more than remaining duration of the Chancellor and can be revoked with 50% vote of the Senate and support from the King of the Imperial Federation.
     5. The Vice-Chancellor of the Imperial Federation can be removed with at least 50% vote of the Senate.
+11. The Chancellor reserves the right to veto a bill that is passed with less than 2/3 majority within 24 hours after passage.
 
 ---
 
@@ -76,7 +78,7 @@ This is the page containing a full version of the IF Constitution. If your pull 
     2. If a vote has not been passed or failed by the 24-hour mark, the vote will automatically be failed
     3. Senators may abstain from voting
         1. Abstentions disqualify the Senator from the vote, lowering the total amount of votes needed to pass or fail.
-3. The Imperial Senate can overturn any decision made by the Chancellor of the Imperial Federation by a majority vote of all Senators, and it has supremacy over the Chancellor to enact decisions if a majority vote of all Senators support it.
+3. The Imperial Senate can overturn any decision made by the Chancellor and/or Vice Chancellor of the Imperial Federation by a two-thirds majority of votes, and it has supremacy over the Chancellor and Vice Chancellor to enact decisions if a two-thirds majority of votes support it.
 4. Senators must:
     1. Act in the best interest of the Imperial Federation
     2. Delegate important duties to Senators and faithfully execute these duties
