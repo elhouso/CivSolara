@@ -6,7 +6,7 @@
 If you only want to do a quick edit, and don't need to preview your changes, you don't need the following requirements. Using a simple text editor or GitHub's website to edit the Markdown files is fine.
 :::
 
-- [Node.js](https://nodejs.org/en/) (Use lts version)
+- [Node.js](https://nodejs.org/en/) (Use LTS version)
 - [npm](https://www.npmjs.com/) (via Node Installer, same way with how you install Node.js)
 - [GitHub Desktop](https://desktop.github.com/) OR [Git](https://git-scm.com/) (Git is advanced, I recommend GitHub Desktop for beginners)
 
