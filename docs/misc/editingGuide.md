@@ -79,7 +79,7 @@ Finally if you want to have multiple pages under same section included without c
 },
 ```
 
-Now notice how the path for `link` is similar to the structure of how the files are laid out in the `docs` folder? Thats because your telling the website to go into the `culture` folder and find the file with the of `test`. Also notice how the `.md` wasn't included. Thats because **only** `.md` files should be placed within those folders, and it assumes as such.
+Now notice how the path for `link` is similar to the structure of how the files are laid out in the `docs` folder? Thats because you're telling the website to go into the `laws` folder and find the file with the of `test`. Also notice how the `.md` wasn't included. Thats because **only** `.md` files should be placed within those folders, and it assumes as such.
 
 As you wonder how does activeMatch work, that is used to add all of the pages (.md files) in `/laws/` folder and then it uses `test` file in `link` as a starter page or landing page.
 
