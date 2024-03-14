@@ -138,7 +138,7 @@ This is the page containing a full version of the IF Constitution. If your pull 
 
 ## Section 5: Elections in the Imperial Federation
 
-1. Federal Elections for the position of Chancellor of the Imperial Federation shall be held on the first day of every month.
+1. Federal Elections for the position of Chancellor of the Imperial Federation shall be held no sooner than 40 days after the announcement of the previous election results and no later than the first full weekend after the 40 days after the announcement of the previous election results.
 2. Elections will be overseen by the King, and a random panel of citizens from the Imperial Federation known as the ‘Electoral Commission’.
     1. Each panel member of the Electoral Commission will have the ability to oversee the votes cast in a state that is not their own.
     2. Political candidates will be barred from being part of the Electoral Commission in an election where they are standing.
@@ -207,7 +207,7 @@ These 7 basic rights apply equally throughout the Imperial Federation, and canno
 2. The Imperial Federation can exist across the Multiverse (multiple servers of Minecraft).
 3. Any amendments to the constitution require the support of ⅔ of all Members of the Imperial Senate, in addition to the support of the sitting Chancellor and the King.
 4. The King of the Imperial Federation is the Commander-in-Chief of the Military, and has power over all appointments to the military.
-5. Within this role, the King may choose to consult the Military Chief of Staff, Senate and Chancellor of the Imperial Federation on the appointment of military officials. The King, Senate, Military Chief of Staff and senior Military can perform military actions outside of war, including pearl-on-sight orders, which can be overturned by the Senate of the Imperial Federation.
+5. Within this role, the King may choose to consult the Head of the Defense Department, the Military Chief of Staff, Senate and Chancellor of the Imperial Federation on the appointment of military officials. The King, Senate, Military Chief of Staff and senior Military can perform military actions outside of war, including pearl-on-sight orders, which can be overturned by the Senate of the Imperial Federation.
 6. Membership of the military will be determined by the military chief-of-staff, but appointments can be overturned by the King.
 7. Federal officials and their deputies, aside from judges and privy councillors, should be re-selected within 72 hours of the end of federal elections.
 8. To become a member of the military, citizens must:
