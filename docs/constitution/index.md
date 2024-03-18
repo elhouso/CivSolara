@@ -38,7 +38,7 @@ This is the page containing a full version of the IF Constitution. If your pull 
 
 ## Section 2: Chancellor of the Imperial Federation
 
-1. The Chancellor of the Imperial Federation shall be elected by citizens of the Imperial Federation, with elections occurring on the first day of each month.
+1. The chancellor of the Imperial Federation shall be elected by citizens of the Imperial Federation, with elections occuring no sooner than 40 days after the announcement of the previous election results and no later than the first full weekend after the 40 days after the announcement of the previous election results.
 2. The Chancellor will serve as the Head of Government of the Imperial Federation.
     1. Within this role, the Chancellor will determine the foreign and domestic policies of the Imperial Federation.
     2. The Chancellor will oversee federal planning decisions, the allocation of federal resources and the admission of new states into the federation which can be overturned by the Senate.
