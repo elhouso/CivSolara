@@ -28,7 +28,7 @@ This is the page containing a full version of the IF Constitution. If your pull 
 7. The King of the Imperial Federation reserves the right to suspend the Government of the Imperial Federation with the support of at least 2 of the following three bodies:
     1. The Senate, by the expression of the will of more than 50% of the Senators
     2. The government, by expression of the will of the Chancellor
-    3. The Judiciary, by expression of the consent of 2 out of 3 judges.
+    3. The Judiciary, by expression of the consent of 3 out of 3 judges.
 8. The King’s primary residence shall be located in the Capital District.
 9. Any changes to the constitution of the Imperial Federation must be approved by The King of the Imperial Federation.
 10. The King of the Imperial Federation may give up the crown to any person they see fit.
@@ -153,10 +153,10 @@ This is the page containing a full version of the IF Constitution. If your pull 
     2. Should ⅔ of the voters sign a bill for a voters petition, it becomes official IF law and must be implemented by the Chancellor and Imperial Senate so long as it does not conflict with this document.
     3. Should ⅔ of voters petition for the removal of the sitting Chancellor then the sitting Chancellor will be removed and  a new election will begin immediately.
 9. In order to stand for election for the position of Chancellor of the Imperial Federation. Candidates shall have
-    4. A house within a state, federal district, or free city of the Imperial Federation as their primary residence for at least 2 weeks prior to standing for election.
-    5. Shall consider the Imperial Federation to be their primary country of citizenship.
-    6. Chancellor candidates shall not have a government position in a state outside of the Imperial Federation.
-    7. The Sovereign and Electoral Commission shall be charged with determining candidates primary citizenship and primary residence in the case of dispute.
+    1. A house within a state, federal district, or free city of the Imperial Federation as their primary residence for at least 2 weeks prior to standing for election.
+    2. Shall consider the Imperial Federation to be their primary country of citizenship.
+    3. Chancellor candidates shall not have a government position in a state outside of the Imperial Federation.
+    4. The Sovereign and Electoral Commission shall be charged with determining candidates primary citizenship and primary residence in the case of dispute.
 
 ---
 
