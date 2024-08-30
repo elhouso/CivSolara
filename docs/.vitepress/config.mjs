@@ -46,10 +46,16 @@ export default defineConfig({
         link: '/states/index',
         activeMatch: '/states/' 
       },
+      {
+        text: 'Land registry',
+        link: '/land-registry/index',
+        activeMatch:'/land-registry'
+      },
       { 
         text: 'Edit Guide', 
         link: '/misc/editingGuide' 
       },
+      
     ],
     editLink: {
       pattern:
