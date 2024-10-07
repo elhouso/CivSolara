@@ -22,6 +22,12 @@ hero:
     - theme: alt
       text: States
       link: /states/index
+    - theme: alt
+      text: Land Registry
+      link: /land-registry/index
+    - theme: alt
+      text: New Player Guide
+      link: /guides/index
 
 features:
   - title: Largest and diverse nation
