@@ -184,18 +184,27 @@ This is the page containing a full version of the IF Constitution. If your pull 
 
 ## Section 7: The Inalienable Rights of an Imperial Citizen
 
-There are certain rights that we hold sacred to our very being, and cannot be taken away by anybody, whether fellow man or state. These rights are listed here:
+There are certain rights that we hold sacred to our very being, and cannot be taken away from citizens, by anybody, whether fellow person or state.
 
-1. Right to security (right to not being killed).
-2. Right to property.
-3. Right to free speech.
-    1. So long that it does not violate server rules or discord rules.
-4. Right to a fair trial by the Judge, as outlined in the Judiciary section.
-5. Right of movement through the lands and territories of the Imperial Federation.
+Imperial Federation Citizens shall in all circumstances receive and maintain the rights, duties, and privileges contained herein, only withheld or suspended if convicted of an egregious crime by an impartial process or violation of server/discord rules.
+
+Everyone has the right to be protected from discrimination or harassment regardless of their citizenship status, conviction of a crime, or violation of server/discord rules.
+
+The Federal Government should produce evidence of compelling interest held to strict scrutiny whenever implementing or limiting these rights.
+
+1. The right to be free from arbitrary hunting or harm.
+2. The right to property that is acquired, developed, and maintained according to the federal, state, or local law.
+    1. The right to not be subject to eminent domain without compensation.
+3. The right to free speech. So long that it does not violate server rules or discord rules.
+4. The right to a fair, prompt, and public, trial by the judiciary, to be fully informed of any accusations against them prior to proceedings, to confront evidence against them, and to present evidence in their favor.
+5. The right of movement through the public lands and territories of the Imperial Federation.
 6. Right to trade with other individuals.
-7. Right to be protected from discrimination or harassment based on age, gender, sexuality, race, or any other IRL charecteristics that have no impact on in-game performance.
+7. The right to petition state, federal, and territorial governments for the redress of grievances, to vote in federal elections, to run for and hold public office.
+8. The right to be promptly informed of laws, rules, and regulations and related government business as they go into effect. With no ex post facto laws, rules, regulations or bills of attainder being created.
+9. The right to equal protection and due process under the law, and to maintain citizenship and full citizenship rights.
+10. Right to be protected from discrimination or harassment based on age, gender, sexuality, race, or any other IRL charecteristics that have no impact on in-game performance.
 
-These 7 basic rights apply equally throughout the Imperial Federation, and cannot be involuntarily infringed upon by either Federal or State governments.
+These basic rights apply equally throughout Imperial Federation States, Districts, and Territories. and cannot be infringed upon by either Federal or State governments.
 
 ---
 
