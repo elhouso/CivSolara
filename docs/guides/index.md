@@ -17,7 +17,7 @@ This page is a guide designed to educate you and other new players who are new t
 Or click this direct URL to open guide via PDF Viewer: <https://civif.net/Civmc-New-Player-Guide.pdf>
 
 <div class="pdf-viewer-wrapper">
-    <VPdfViewer src="docs\public\Civmc-New-Player-Guide.pdf"
+    <VPdfViewer src="https://civif.net/Civmc-New-Player-Guide.pdf"
         :dark-mode="isDark"
         @update:dark-mode="isDark = $event"
     />
