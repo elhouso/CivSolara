@@ -116,6 +116,11 @@ export default defineConfig({
       copyright: 'Copyright © 2022-present The Government of the Imperial Federation'
     },
   },
+  vite: {
+    ssr: {
+      noExternal: ['pdfjs-dist', '@vue-pdf-viewer/viewer']
+    }
+  },
   sitemap: {
     hostname: urlName,
     lastmodDateOnly: false,
