@@ -27,7 +27,7 @@ hero:
       link: /land-registry/index
     - theme: alt
       text: New Player Guide
-      link: /guides/index
+      link: /guides/new-player-guides/index
 
 features:
   - title: Largest and diverse nation
