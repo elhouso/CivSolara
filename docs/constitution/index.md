@@ -14,25 +14,27 @@ This is the page containing a full version of the IF Constitution. If your pull 
 
 ---
 
-## Section 1: King of the Imperial Federation
+## Section 1: Emperor of Deluvia and King of the Imperial Federation
 
-1. King Jalhf I is the constitutional monarch and head of state of the Imperial Federation.
-2. All citizens of the Imperial Federation bear true allegiance to The King of the Imperial Federation.
-3. The King owns all federal groups and the discord of the Imperial Federation.
-4. The King is the Commander-in-Chief of the military.
-    1. The King reserves the right to appoint and remove people from the military.
-    2. The King may perform military actions outside of war, including pearl-on-sight orders, which can be overturned by the Senate.
-5. The King serves as the primary representative of the Imperial Federation and its interests on the international stage.
-6. The King of the Imperial Federation will oversee federal elections in the Imperial Federation with the oversight of a random body of citizens not standing for election known as the ‘Electoral Commission’.
-    1. Prior to announcing the outcome of a Federal Election where a sitting Chancellor has lost, The King of the Imperial Federation reserves the right to remove the former Chancellor’s permissions on discord and federal groups for the stability of the Federation before he publicly declares the result.
-7. The King of the Imperial Federation reserves the right to suspend the Government of the Imperial Federation with the support of at least 2 of the following three bodies:
-    1. The Senate, by the expression of the will of more than 50% of the Senators
-    2. The government, by expression of the will of the Chancellor
-    3. The Judiciary, by expression of the consent of 3 out of 3 judges.
-8. The King’s primary residence shall be located in the Capital District.
-9. Any changes to the constitution of the Imperial Federation must be approved by The King of the Imperial Federation.
-10. The King of the Imperial Federation may give up the crown to any person they see fit.
-11. The King of the Imperial Federation reserves the right to overturn the Chancellor's veto on a bill within 24 hours after the Chancellor's veto decision.
+1. The Monarch as an individual holds the titles Emperor of Deluvia and King of the Imperial Federation.
+2. Emperor and King Jalhf I is the constitutional monarch and head of state of the Imperial Federation.
+3. All citizens of the Imperial Federation bear true allegiance to the Monarch.
+4. The Monarch owns all federal groups and the discord of the Imperial Federation.
+5. The Monarch is the Commander-in-Chief of the military.
+    1. The Monarch reserves the right to appoint and remove people from the military.
+    2. The Monarch may perform military actions outside of war, including pearl-on-sight orders, which can be overturned by the Senate.
+6. The Monarch serves as the primary representative of the Imperial Federation and its interests on the international stage.
+    1. The Monarch may make discretionary decisions regarding foreign policy which do not conflict with published policy of the Chancellor or Senate.
+    2. These decisions must be communicated to the government and may be overturned by a majority vote of the Senate.
+7. The Monarch will oversee federal elections in the Imperial Federation with the oversight of a random body of citizens not standing for election known as the ‘Electoral Commission’.
+    1. Prior to announcing the outcome of a Federal Election where a sitting Chancellor has lost, The Monarch reserves the right to remove the former Chancellor’s permissions on discord and federal groups for the stability of the Federation before he publicly declares the result.
+8. The Monarch reserves the right to suspend the Government of the Imperial Federation with the support of at least 3 of the following four bodies:
+    1. The government, by expression of will of the Chancellor.
+    2. The Senate, by the expression of the will of more than 50% of the Senators.
+    3. The Judiciary, by expression of the consent of a majority of non-Head Judges.
+    4. The citizenry, by a majority vote.
+9. The Monarch may give up the crown to any person they see fit with the approval of the majority of the Senate.
+10. The Monarch reserves the right to overturn the Chancellor’s veto on a bill within 72 hours after the Chancellor’s veto decision.
 
 ---
 
