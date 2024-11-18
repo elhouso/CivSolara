@@ -164,23 +164,28 @@ This is the page containing a full version of the IF Constitution. If your pull 
 
 ## Section 6: Judiciary of the Imperial Federation
 
-1. The Federal Judiciary of the Imperial Federation shall consist of 3 judges: 1 of which shall be elected by citizens of the Imperial Federation, the second judge to be appointed by the Senate of the Imperial Federation, and the Head Judge being appointed by the Senate of the Imperial Federation.
-    1. The Judiciary of the Imperial Federation shall meet in the Capital District.
-2. The Federal Judiciary shall only have jurisdiction over
+1. The Federal Judiciary of the Imperial Federation shall consist of an odd number of judges set by the Senate under the following conditions:
+    1. One judge will be the Head Judge, chosen by the Monarch of the Federation.
+    2. One or more judges will be chosen by appointed by majority vote in the Senate.
+    3. One or more judges will be elected by the citizenry every election cycle.
+    4. The number of judges appointed by the Senate must be equal to the number of judges elected by the citizenry.
+2. The Federal Judiciary shall have jurisdiction over:
     1. Crimes committed in multiple States by the same person.
     2. Crimes of espionage or treason are committed against the Federal Government.
-    3. Crimes committed in Federal districts or Imperia.
+    3. Crimes committed in Federal districts or the Capital of the Imperial Federation.
 3. All other crimes are tried in the States they occur according to State laws or customs.
     1. States reserve the sole right to try crimes not under federal jurisdiction.
     2. States may defer this right and ask the Federal Judiciary to try crimes not under federal jurisdiction that occur within their borders.
-4. Defendants may appeal their case to the Federal Senate if they believe they have had an unjust trial. The Senate reserves the right to deny an appeal for any reason.
-    1. Federal cases with sentences of more than a week of pearl time or of a fine of more than 32 diamonds are automatically appealed to the Senate, and this appeal cannot be rejected.
-5. Judges may be removed by a senate resolution with 2/3rds affirmative votes within 24 hours.
-    1. If the Head Judge is removed via senate resolution, the senate must reappoint a new Head Judge immediately.
+4. The judicial process and details of case proceedings shall be decided on by the Senate with advice from the Judiciary.
+5. Defendants may appeal their case to the Federal Judiciary if they believe they have had an unjust trial. The Judiciary reserves the right to deny an appeal for any reason.
+6. Judges may be removed by a senate resolution with 2/3rds affirmative votes within 24 hours.
+    1. If the Head Judge is removed via senate resolution, the Monarch must reappoint a new Head Judge immediately.
     2. If any other judge is removed by senate resolution, the senate may appoint an interim judge to serve until the next judicial election. A new judge must be elected during the next federal election.
-6. The second judge, appointed by the senate cannot preside over the cases involving members of the senate.
-7. The Head Judge, the King of the Imperial Federation, cannot preside over the cases involving the King of the Imperial Federation as a party in the case.
-8. Judiciary is the sole interpreter of the constitution, when a constitutional matter arises or when the constitution isn't clear.
+7. The judges appointed by the senate cannot preside over the cases involving members of the senate.
+8. The Head judge, appointed by the Monarch, cannot preside over the cases involving the Monarch as a party in the case.
+9. The judiciary shall have original jurisdiction over disputes between the states, between individuals from different states, and between a state and the federal government.
+10. Cases before the federal judiciary may not be based on hypothetical, theoretical, or future disputes, and the judiciary may not issue advisory opinions.
+11. The judiciary is the final interpreter of the Constitution and any constitutional disputes.
 
 ---
 
